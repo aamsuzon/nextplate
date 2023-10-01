@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Nextplate",
-    "base_url": "https://nextplate.netlify.app",
+    "title": "Backlink Box faster and smarter linkbuiding Apps - Backlink Box",
+    "base_url": "https://backlinkbox.pro",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "27",
-    "logo_text": "Nextplate"
+    "logo_text": "BacklinkBox"
   },
 
   "settings": {
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Copyright Backlink Box ©2023 All Rights Reserved"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "label": "START A FREE TRIAL",
+    "link": "https://app.backlinkbox.pro/public/user/register"
   },
 
   "disqus": {
@@ -40,8 +40,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Abdullah Al Mahamud",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_description": "Backlink Box faster and smarter linkbuiding Apps - Backlink Box"
   }
 }
